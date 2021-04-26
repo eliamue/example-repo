@@ -17,8 +17,8 @@
 
 ## There's also a cat named Nandor who is pure evil:
 
-|         | Lawful | Neutral | Chaotic   |   |
-|---------|--------|---------|-----------|---|
-| **Good**    | Diggs  | Maris   | Zoey      |   |
-| **Neutral** | Emily  | Willow  | Teen Wolf |   |
-| **Evil**    | Binx   | Ernie   | Nandor    |   |
+|         | Lawful | Neutral | Chaotic   |
+|---------|--------|---------|-----------|
+| **Good**    | Diggs  | Maris   | Zoey      |
+| **Neutral** | Emily  | Willow  | Teen Wolf |
+| **Evil**    | Binx   | Ernie   | Nandor    |
