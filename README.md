@@ -22,3 +22,5 @@
 | **Good**    | Diggs  | Maris   | Zoey      |
 | **Neutral** | Emily  | Willow  | Teen Wolf |
 | **Evil**    | Binx   | Ernie   | Nandor    |
+
+*So thanks and cheers to all you cool cats and kittens out there!*
